@@ -13,7 +13,7 @@ title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsid
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-#date: '2022-06-22T00:00:00Z'
+date: '2022-06-22T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).

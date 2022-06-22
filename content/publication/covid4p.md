@@ -1,11 +1,11 @@
 ---
-title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru'
+title: 'SavAn investigation of the relationship between woodfuel usage, air pollution and the prevalence of COVID-19 in Burkina Faso'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-#authors:
-#  - admin
+authors:
+  - with Philippe De Vreyer, Elodie Djemaï, Adama Sana, Dramane Kania, Hermann Badolo and Abdramane Berthé
 
 
 # Author notes (optional)
@@ -29,7 +29,7 @@ publication_types: ['4']
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: I evaluate the effect of the conversion of households from wood-fuel cooking to liquefied petroleum gas (LPG) cooking on infant mortality using data from sixteen waves of Peru’s continuous Demographic and Health Survey. I exploit the sequential introduction of LPG subsidies targeting low-income households and compare early-treated districts to later or never treated districts using a staggered difference-in-difference estimation strategy. I find that infant mortality increased by 28,5% as a result of the massive fuel switch induced by the intervention, which corresponds to at least 5,900 additional infant deaths between 2010 and 2019. Subsidizing LPG also caused a higher incidence of symptoms of acute respiratory infections in children under five and of moderate or severe anemia among adult women, two conditions which are known to be induced by exposure to air pollution from cooking fuels. I show that these unexpected results are most likely explained by the fact that the switch to LPG led households who were previously cooking outdoors to start mainly cooking indoors, thus radically modifying the ventilation quality of their cooking area. These findings suggest that clean cooking interventions need to pay more attention to choices of cooking location and to cooking area ventilation.
+abstract: Air pollution leads to higher transmission rates of some infectious diseases whose pathogens may be borne by particulate matter. This is a source of concern for public health in countries where wood-fuel is the main source of cooking energy because wood combustion emits high levels of fine particulate matter (PM2.5). This paper identifies the effect of individual exposure to PM2.5 on the probability of being infected by the SARS-CoV-2 virus during the first peak of the COVID-19 epidemic in Burkina Faso. We instrument for exposure to PM2.5 using a distance weighted average of wood consumption among households in the neighborhood of the individual of interest. We find that 12% of adults tested positive to SARS-CoV-2 antibodies in our study area in June 2021. Exposure to PM2.5 from woodfuel combustion significantly increases the risk of COVID-19. At the estimated mean 24-hour exposure of 220 µg/m3, our results predict an 8.3 percentage points increase in the probability of contracting the virus compared to a scenario without pollution. Converting households from wood to less polluting sources of energy may have benefits in terms of reduced coronavirus transmission.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

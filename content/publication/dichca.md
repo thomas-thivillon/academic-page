@@ -1,5 +1,5 @@
 ---
-title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru'
+title: 'Demand for informal care and human capital accumulation: Evidence from elderly adult deaths in Senegal'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsid
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-06-22T00:00:00Z'
+date: '2022-01-22T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ publication_types: ['4']
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: I evaluate the effect of the conversion of households from wood-fuel cooking to liquefied petroleum gas (LPG) cooking on infant mortality using data from sixteen waves of Peru’s continuous Demographic and Health Survey. I exploit the sequential introduction of LPG subsidies targeting low-income households and compare early-treated districts to later or never treated districts using a staggered difference-in-difference estimation strategy. I find that infant mortality increased by 28,5% as a result of the massive fuel switch induced by the intervention, which corresponds to at least 5,900 additional infant deaths between 2010 and 2019. Subsidizing LPG also caused a higher incidence of symptoms of acute respiratory infections in children under five and of moderate or severe anemia among adult women, two conditions which are known to be induced by exposure to air pollution from cooking fuels. I show that these unexpected results are most likely explained by the fact that the switch to LPG led households who were previously cooking outdoors to start mainly cooking indoors, thus radically modifying the ventilation quality of their cooking area. These findings suggest that clean cooking interventions need to pay more attention to choices of cooking location and to cooking area ventilation.
+abstract: Women carry a disproportionate share of the burden of providing informal care to functionally dependent relatives such as old age adults. In developing economies, this burden tends to fall on the shoulders of female adolescents in particular for cultural and economic reasons. This paper uses original panel data from Senegal to evaluate the effect of caring responsibilities on girls’ educational attainment. I exploit negative shocks of demand for care work following the death of an old age household member to identify this effect. I show that the death of an elderly household member results in 23% additional education completed over a period of 4 years. I present evidence that changes in demand for informal care within the household are one of the mechanisms at play. These results call for increased attention to specific forms of domestic child labor in public policies in order to reduce gender inequalities in education.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

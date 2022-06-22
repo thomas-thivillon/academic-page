@@ -25,7 +25,7 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: thomas.thivillon@dauphine.eu
+  email: thomas.thivillon[at]dauphine.eu
   phone: 
   address:
     street: DIAL - Université Paris Dauphine - PSL, 4 rue d'Enghien, 75010 Paris
@@ -38,9 +38,9 @@ content:
     latitude: ''
     longitude: ''
   directions: 
-  office_hours:
-    - ''
-    - ''
+#  office_hours:
+#    - ''
+#    - ''
 #  appointment_url: ''
   contact_links:
     - icon: twitter

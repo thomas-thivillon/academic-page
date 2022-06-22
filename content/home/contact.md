@@ -31,9 +31,9 @@ content:
     street: DIAL - Université Paris Dauphine - PSL, 4 rue d'Enghien
     postcode: 'France.'
     city: 75010 Paris
-    country: .
-    region: .
-    country_code: .
+    country: 
+    region: 
+    country_code: 
 #  coordinates:
 #    latitude: ''
 #    longitude: ''

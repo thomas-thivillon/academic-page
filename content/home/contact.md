@@ -13,26 +13,26 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: false
+  autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#  # Email form provider
+#  form:
+#    provider: netlify
+#    formspree:
+#      id:
+#    netlify:
+#      # Enable CAPTCHA challenge to reduce spam?
+#      captcha: false
 
   # Contact details (edit or remove options as required)
   email: thomas.thivillon@dauphine.eu
   phone: 
   address:
-    street: DIAL - Université Paris Dauphine, 4 rue d'Enghien, 75010 Paris, France.
+    street: DIAL - Université Paris Dauphine - PSL, 4 rue d'Enghien, 75010 Paris
     city: 
     region: 
     postcode: ''
-    country: 
+    country: France
     country_code: 
   coordinates:
     latitude: ''
@@ -41,7 +41,7 @@ content:
   office_hours:
     - ''
     - ''
-  appointment_url: ''
+#  appointment_url: ''
   contact_links:
     - icon: twitter
       icon_pack: fab

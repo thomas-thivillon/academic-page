@@ -1,11 +1,5 @@
 ---
-title: 'SavAn investigation of the relationship between woodfuel usage, air pollution and the prevalence of COVID-19 in Burkina Faso'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-authors:
-  - with Philippe De Vreyer, Elodie Djemaï, Adama Sana, Dramane Kania, Hermann Badolo and Abdramane Berthé
+title: 'An investigation of the relationship between woodfuel usage, air pollution and the prevalence of COVID-19 in Burkina Faso'
 
 
 # Author notes (optional)
@@ -13,8 +7,16 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-06-22T00:00:00Z'
+date: '2022-06-01T00:00:00Z'
 #doi: ''
+
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - with Philippe De Vreyer, Elodie Djemaï, Adama Sana, Dramane Kania, Hermann Badolo and Abdramane Berthé
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

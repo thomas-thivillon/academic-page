@@ -6,7 +6,7 @@ title: Thomas THIVILLON
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,7 +20,7 @@ bio: []
 interests:
   - Development economics
   - Health economics
-  - Experimental economics
+  - Environmental economics
 
 # Education to show in About widget
 education:
@@ -74,4 +74,4 @@ I am a PhD candidate in the [Department of Economics](https://leda.dauphine.fr/)
 
 Before starting my PhD, I spent nine years working as a project manager in the NGO sector with a focus on access to energy and clean cooking in Sub-Saharan Africa. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+

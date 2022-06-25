@@ -1,11 +1,11 @@
 ---
-title: 'REDGAS: A randomized evaluation of the demand for LPG stoves and of the associated effects on household air pollution, greenhouse gas emissions and well-being in Burkina Faso '
+title: 'Poverty, preventive actions and the progression of CoViD-19 in Burkina Faso'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - with Philippe De Vreyer and Elodie Djemaï
+  - with Philippe De Vreyer, Elodie Djemaï, Hermann Badolo, Abdramane Berthé, Dramane Kania and Adama Sana
 
 
 # Author notes (optional)
@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-06-22T00:00:00Z'
+date: '2022-05-22T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ publication_types: ['0']
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: We evaluate an intervention aimed at reducing air pollution in Burkina Faso by encouraging households to switch from wood or charcoal to liquefied petroleum gas (LPG) as their main cooking fuel. We randomize 820 households to a subsidy treatment, a created treatment and a control group. Treated households receive an offer to purchase a gas stove from a local retailer at a discounted price or at the market price with the option to pay in three installments. We estimate the effects of these capital costs subsidies and consumption loans on the adoption and intensity of use of LPG over a six-month period following treatment. We also generate estimates of the effects of the interventions on 24-hour individual exposure to fine particulate matters (PM$_2.5$).
+abstract: This project investigates the determinants of CoViD-19 transmission in Burkina Faso with a focus on behavioural factors. We conduct a randomized experiment in which an information treatment aimed at addressing informational market failures is cross-randomized with unconditional cash transfers designed to incentivize households to adopt preventive actions (regular handwashing, wearing face masks, etc). Rapid COVID-19 serological tests are conducted in all adult individuals belonging to the sample before and after the intervention. We estimate the effect of access to information and cash transfers on serological status at endline.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

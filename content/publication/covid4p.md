@@ -7,7 +7,7 @@ title: 'Wood fuel usage, air pollution and the prevalence of COVID-19 in Burkina
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-06-01T00:00:00Z'
+date: '2022-08-03T00:00:00Z'
 #doi: ''
 
 

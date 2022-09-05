@@ -21,8 +21,8 @@ content:
   filters:
     author: ''
     category: ''
-    publication_type: '4'
-    tag: 'wp'
+    publication_type: ''
+    tag: 'cooking, Africa'
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 

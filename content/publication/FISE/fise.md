@@ -34,7 +34,7 @@ abstract: I evaluate the effect of the conversion of households from wood-fuel c
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [wp]
 
 # Display this page in the Featured widget?
 featured: true

@@ -70,7 +70,7 @@ email: 'thomas.thivillon[at]dauphine.eu'
 highlight_name: true
 ---
 
-I am a PhD candidate in the [Department of Economics](https://leda.dauphine.fr/) and a member of the [DIAL](https://dial.ird.fr/en/) research team at [Paris Dauphine University](https://dauphine.psl.eu/en/), a college of [PSL University](https://psl.eu/en). My research focuses on environmental health, technology adoption, and gender equality in developing countries. 
+Welcome to my academic webpage. I am a PhD candidate in the [Department of Economics](https://leda.dauphine.fr/) and a member of the [DIAL](https://dial.ird.fr/en/) research team at [Paris Dauphine University](https://dauphine.psl.eu/en/), a college of [PSL University](https://psl.eu/en). My research focuses on environmental health, technology adoption, and gender equality in developing countries. 
 
 Before starting my PhD, I spent nine years working as a project manager in the NGO sector with a focus on access to energy and clean cooking in Sub-Saharan Africa. 
 

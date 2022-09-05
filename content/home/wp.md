@@ -22,7 +22,7 @@ content:
     author: ''
     category: ''
     publication_type: '4'
-    tag: ''
+    tag: 'wp'
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 

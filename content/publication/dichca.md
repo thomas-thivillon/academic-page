@@ -1,5 +1,5 @@
 ---
-title: 'Demand for informal care and human capital accumulation: Evidence from elderly adult deaths in Senegal'
+title: 'Demand for informal caregiving and human capital accumulation: Evidence from elderly deaths in Senegal'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -29,7 +29,7 @@ publication_types: ['4']
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Women carry a disproportionate share of the burden of providing informal care to functionally dependent relatives such as old age adults. In developing economies, this burden tends to fall on the shoulders of female adolescents in particular for cultural and economic reasons. This paper uses original panel data from Senegal to evaluate the effect of caring responsibilities on girls’ educational attainment. I exploit negative shocks of demand for care work following the death of an old age household member to identify this effect. I show that the death of an elderly household member results in 23% additional education completed over a period of 4 years. I present evidence that changes in demand for informal care within the household are one of the mechanisms at play. These results call for increased attention to specific forms of domestic child labor in public policies in order to reduce gender inequalities in education.
+abstract: Women carry a disproportionate share of the burden of informal caregiving to functionally dependent relatives such as old age individuals. In developing economies, this burden tends to fall on the shoulders of female adolescents in particular for cultural and economic reasons. This paper uses original panel data from Senegal to evaluate the effect of co-residence with elderly individuals on the educational attainment of female children. To identify this effect, I exploit the deaths of elderly co-residents which occur during the study period in an empirical strategy which relies on triple-differences with child fixed-effects. I show that an event of elderly death is associated with 23% additional education completed over a period of 4 years by affected girls. I present evidence that changes in demand for informal caregiving within the household are one of the mechanisms at play. These results call for increased attention to specific forms of domestic child labor in public policies in order to reduce gender inequalities in education.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

@@ -22,7 +22,7 @@ content:
     author: ''
     category: ''
     publication_type: ''
-    tag: 'cooking, Africa'
+    tag: '"cooking", "Africa"'
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 

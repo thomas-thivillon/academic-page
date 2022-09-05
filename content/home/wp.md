@@ -22,7 +22,7 @@ content:
     author: ''
     category: ''
     publication_type: '3'
-    tag: 'cooking'
+    tag: 'health'
   # Page order: descending (desc) or ascending (asc) date.
   order: asc
 

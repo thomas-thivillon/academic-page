@@ -36,7 +36,7 @@ abstract: Air pollution leads to higher transmission rates of some infectious di
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["COVID-19", "air pollution", "cooking", "Africa"]
+tags: ["COVID-19", "air pollution", "health", "cooking", "Africa"]
 
 # Display this page in the Featured widget?
 featured: true

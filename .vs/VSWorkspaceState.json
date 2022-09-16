@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\scss",
+    "\\assets\\media",
+    "\\assets\\media\\icons",
     "\\config",
+    "\\config\\_default",
+    "\\content",
     "\\content\\admin",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\post",
-    "\\content\\post\\getting-started",
-    "\\content\\publication",
-    "\\content\\publication\\example"
+    "\\images",
+    "\\static"
   ],
-  "SelectedNode": "\\content",
+  "SelectedNode": "\\assets\\media\\icon.png",
   "PreviewInSolutionExplorer": false
 }

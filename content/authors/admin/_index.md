@@ -1,10 +1,7 @@
 ---
 # Display name
-title: "{{ replace .Name "-" " " | title }}"
+title: Thomas THIVILLON
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "{{ urlize .Name }}"
 
 # Is this the primary user of the site?
 superuser: false

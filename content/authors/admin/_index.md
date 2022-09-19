@@ -73,14 +73,11 @@ highlight_name: false
 
 Welcome to my webpage. I am a PhD candidate in the [Department of Economics](https://leda.dauphine.fr/) and a member of the [DIAL](https://dial.ird.fr/en/) research team at [Paris Dauphine University](https://dauphine.psl.eu/en/), a college of [PSL University](https://psl.eu/en). My research focuses on the evaluation of public policies aimed at improving the health of populations, alleviating poverty, and addressing gender inequalities. I use experimental and quasi-experimental research methods to conduct these evaluations.
 
-**Interests:** Development economics, Health economics, Environmental economics.
+**Interests:** Development Economics, Health Economics, Environmental Economics.
 
 Contact: 
 
-DIAL
-Université Paris Dauphine - PSL
-4 rue d'Enghien
-75010 Paris, FRANCE
+DIAL \n Université Paris Dauphine - PSL \n 4 rue d'Enghien \n 75010 Paris, FRANCE
 
 
 

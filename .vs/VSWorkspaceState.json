@@ -8,9 +8,10 @@
     "\\config\\_default",
     "\\content",
     "\\content\\admin",
+    "\\content\\publication",
     "\\images",
     "\\static"
   ],
-  "SelectedNode": "\\assets\\media\\icon.png",
+  "SelectedNode": "\\content\\publication\\redgas.md",
   "PreviewInSolutionExplorer": false
 }

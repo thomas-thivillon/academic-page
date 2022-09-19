@@ -3,37 +3,37 @@
 title: Thomas THIVILLON
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: PhD Candidate
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: PSL University - Paris Dauphine University
-    url: https://www.psl.eu/en/
+  - name:
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
 # Interests to show in About widget
 interests:
-  - Development economics
-  - Health economics
-  - Environmental economics
+  - 
+  - 
+  -
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Economics
-      institution: PSL University (Dauphine)
-      year: 2022 (expected)
-    - course: MSc in Sustainable Development
-      institution: HEC Paris
-      year: 2008
-    - course: MSc in Comparative Politics
-      institution: London School of Economics
-      year: 2005
+    - course:
+      institution:
+      year:
+    - course:
+      institution:
+      year:
+    - course:
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,10 +64,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'thomas.thivillon[at]dauphine.eu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Welcome to my webpage. I am a PhD candidate in the [Department of Economics](https://leda.dauphine.fr/) and a member of the [DIAL](https://dial.ird.fr/en/) research team at [Paris Dauphine University](https://dauphine.psl.eu/en/), a college of [PSL University](https://psl.eu/en). My research focuses on the evaluation of public policies aimed at improving the health of populations, alleviating poverty, and addressing gender inequalities. I use experimental and quasi-experimental research methods to conduct these evaluations.

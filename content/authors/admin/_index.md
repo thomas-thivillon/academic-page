@@ -1,6 +1,10 @@
 ---
 # Display name
-title: Thomas THIVILLON
+title: "{{ replace .Name "-" " " | title }}"
+
+# Username (this should match the folder name and the name on publications)
+authors:
+- "{{ urlize .Name }}"
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,17 +27,17 @@ bio: []
 #  -
 
 # Education to show in About widget
-education:
-  courses:
-    - course:
-      institution:
-      year:
-    - course:
-      institution:
-      year:
-    - course:
-      institution: 
-      year: 
+#education:
+#  courses:
+#    - course:
+#      institution:
+#      year:
+#    - course:
+#      institution:
+#      year:
+#    - course:
+#      institution: 
+#      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

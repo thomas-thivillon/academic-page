@@ -76,8 +76,11 @@ Welcome to my webpage. I am a PhD candidate in the [Department of Economics](htt
 **Interests:** Development Economics, Health Economics, Environmental Economics.
 
 Contact: 
-
-DIAL \n Université Paris Dauphine - PSL \n 4 rue d'Enghien \n 75010 Paris, FRANCE
-
+{{< math >}}
+DIAL\\
+Université Paris Dauphine - PSL\\
+4 rue d'Enghien\\
+75010 Paris, FRANCE
+{{< /math >}}
 
 

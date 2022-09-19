@@ -110,10 +110,3 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
- # Content Management System
-[cms]
- # Enable the admin panel. See https://wowchemy.com/docs/install/
- netlify_cms = true
-
-[icon.pack]
- ai = true 

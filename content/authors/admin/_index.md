@@ -71,7 +71,9 @@ email: ''
 highlight_name: false
 ---
 
-Welcome to my webpage. I am a PhD candidate in the [Department of Economics](https://leda.dauphine.fr/) and a member of the [DIAL](https://dial.ird.fr/en/) research team at [Paris Dauphine University](https://dauphine.psl.eu/en/), a college of [PSL University](https://psl.eu/en). My research focuses on the evaluation of public policies aimed at improving the health of populations, alleviating poverty, and addressing gender inequalities. I use experimental and quasi-experimental research methods to conduct these evaluations.
+Welcome to my webpage. I am a PhD candidate in the [Department of Economics](https://leda.dauphine.fr/) and a member of the [DIAL](https://dial.ird.fr/en/) research team at [Paris Dauphine University](https://dauphine.psl.eu/en/), a college of [PSL University](https://psl.eu/en). I am interested in the determinants of human capital formation and in the evaluation of public policies aimed at improving the health of populations, alleviating poverty, and addressing gender inequalities. I use experimental and quasi-experimental research methods to conduct these evaluations.
+
+Prior to starting my PhD, I worked in the non-profit sector for over a decade with a focus on access to energy and clean cooking interventions in developing countries.
 
 **Interests:** Development Economics, Health Economics, Environmental Economics.
 

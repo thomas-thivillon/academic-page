@@ -1,17 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\media",
-    "\\assets\\media\\icons",
+    "\\assets\\scss",
     "\\config",
     "\\config\\_default",
     "\\content",
-    "\\content\\admin",
-    "\\content\\publication",
-    "\\images",
-    "\\static"
+    "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\data",
+    "\\static",
+    "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\publication\\redgas.md",
   "PreviewInSolutionExplorer": false
 }

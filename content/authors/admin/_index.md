@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Thomas THIVILLON
+title: T
 
 
 # Is this the primary user of the site?

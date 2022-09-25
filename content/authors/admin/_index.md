@@ -77,7 +77,7 @@ Prior to starting my PhD, I worked in the non-profit sector for over a decade wi
 
 **Interests:** Development Economics, Health Economics, Environmental Economics.
 
-** I am on the 2022/2023 academic job market.**
+**I am on the 2022/2023 academic job market.**
 
 
 

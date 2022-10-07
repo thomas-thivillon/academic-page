@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/FISE.pdf'
+url_pdf: 'https://osf.io/preprints/socarxiv/yh5xs/'
 url_code: ''
 url_dataset: ''
 url_poster: ''

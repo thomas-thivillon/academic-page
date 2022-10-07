@@ -20,8 +20,8 @@ content:
   # Filter on criteria
   filters:
     author: ''
-    category: '3'
-    publication_type: ''
+    category: ''
+    publication_type: '3'
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: asc

@@ -1,5 +1,5 @@
 ---
-title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru [Job Market Paper]'
+title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -34,7 +34,7 @@ abstract: I evaluate the effect of the conversion of households from wood-fuel c
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["energy access", "health", "air pollution", "infant mortality", "cooking", "LPG", "Peru"]
+tags: ["energy access", "child health", "air pollution", "infant mortality", "cooking", "LPG", "Peru"]
 
 # Display this page in the Featured widget?
 featured: true

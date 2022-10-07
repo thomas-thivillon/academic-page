@@ -48,7 +48,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/ThomasThivillon
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&user=T22wnx4AAAAJ
 #  - icon: github
 #    icon_pack: fab

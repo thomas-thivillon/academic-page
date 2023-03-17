@@ -71,7 +71,7 @@ email: ''
 highlight_name: false
 ---
 
-Welcome to my webpage! 
+**Welcome to my webpage!** 
 
 I am a development economist with interests in environmental healh, poverty reduction, and gender equality. Most of my work focuses on the health effects of air pollution and on the evaluation of public policy interventions aimed at increasing the adoption of behaviors or technologies which have the potential to reduce personal exposure to air pollutants.
 
@@ -79,7 +79,7 @@ I received a PhD in Economics from [Université Paris Dauphine](https://dauphine
 
 I am an affiliate researcher at [DIAL](https://dial.ird.fr/en/) (IRD, CNRS, Dauphine-PSL).
 
-**I will join the [Bordeaux School of Economics] (https://www.bse.u-bordeaux.fr/) (BSE, Université de Bordeaux) as a post-doctoral researcher in May 2023.**
+**I will join the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, Université de Bordeaux) as a post-doctoral researcher in May 2023.**
 
 Prior to starting my PhD, I worked in the non-profit sector for over a decade with a focus on access to energy and clean cooking interventions in developing countries.
 

@@ -79,7 +79,7 @@ I received a PhD in Economics from [Université Paris Dauphine](https://dauphine
 
 I am an affiliate researcher at [DIAL](https://dial.ird.fr/en/) (IRD, CNRS, Dauphine-PSL).
 
-**I will join the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, Université de Bordeaux) as a post-doctoral researcher in May 2023.**
+**I will join the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, Université de Bordeaux) as a postdoctoral researcher in May 2023.**
 
 Prior to starting my PhD, I worked in the non-profit sector for over a decade with a focus on access to energy and clean cooking interventions in developing countries.
 

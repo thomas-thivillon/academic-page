@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\media",
+    "\\config",
+    "\\config\\_default",
     "\\content",
-    "\\content\\authors",
     "\\content\\home",
     "\\content\\publication",
+    "\\content\\publication\\FISE",
     "\\data",
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\assets\\media\\icon_backup.png",
+  "SelectedNode": "\\content\\home\\wip.md",
   "PreviewInSolutionExplorer": false
 }

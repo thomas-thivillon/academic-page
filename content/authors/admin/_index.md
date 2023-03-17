@@ -73,7 +73,7 @@ highlight_name: false
 
 **Welcome to my webpage!** 
 
-I am a development economist with interests in environmental healh, poverty reduction, and gender equality. Most of my work focuses on the health effects of air pollution and on the evaluation of public policy interventions aimed at increasing the adoption of behaviors or technologies which have the potential to reduce personal exposure to air pollutants.
+I am a development economist with interests in environment, health, and gender equality. Most of my work focuses on the health effects of air pollution and on the evaluation of public policy interventions aimed at increasing the adoption of behaviors or technologies which have the potential to reduce personal exposure to air pollutants.
 
 I received a PhD in Economics from [Université Paris Dauphine](https://dauphine.psl.eu/en/) and [PSL](https://psl.eu/en) in November 2022.
 

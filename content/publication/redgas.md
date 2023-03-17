@@ -5,7 +5,7 @@ title: 'REDGAS: A randomized evaluation of the demand for LPG stoves and of the 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - with Philippe De Vreyer and Elodie Djemaï
+  - with Philippe De Vreyer, Elodie Djemaï, and Adama Sana
 
 
 # Author notes (optional)

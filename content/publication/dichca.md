@@ -1,5 +1,5 @@
 ---
-title: 'Demand for informal caregiving and human capital accumulation: Evidence from elderly deaths in Senegal'
+title: 'Demand for informal caregiving and human capital accumulation: Evidence from elderly deaths in Senegal [Submitted]'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

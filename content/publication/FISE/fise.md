@@ -1,5 +1,6 @@
 ---
-title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru'
+title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru
+[Best abstract in "Climate/Pollution/Environmental & Health" - 12th Annual Conference of the American Association of Health Economists (ASHEcon 2023)]'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

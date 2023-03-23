@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\config\\_default",
     "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\home",
     "\\content\\publication",
     "\\content\\publication\\FISE",
@@ -11,6 +11,6 @@
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\home\\wip.md",
+  "SelectedNode": "\\content\\authors\\admin\\avatar.jpg",
   "PreviewInSolutionExplorer": false
 }

@@ -5,7 +5,7 @@ title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsid
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - **Best abstract in Climate/Pollution/Environmental & Health, ASHECon 2023**
+  - BEST ABSTRACT IN CLIMATE/POLLUTION/ENVIRONMENTAL & HEALTH - 12th ANNUAL CONFERENCE OF THE AMERICAN SOCIETY OF HEALTH ECONOMISTS (ASHEcon 2023)
 
 
 # Author notes (optional)

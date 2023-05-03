@@ -77,7 +77,7 @@ I am a development economist with interests in environment, health, and gender e
 
 I received a PhD in Economics from [Université Paris Dauphine](https://dauphine.psl.eu/en/) and [PSL](https://psl.eu/en) in November 2022.
 
-**I am currently a postdoctoral researcher at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, Université de Bordeaux).**
+I am currently a postdoctoral researcher at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, Université de Bordeaux).
 
 I am also affiliated to [DIAL](https://dial.ird.fr/en/) (IRD, CNRS, Dauphine-PSL).
 

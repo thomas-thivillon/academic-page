@@ -25,10 +25,10 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: thomas.thivillon[at]dauphine.eu
+  email: thomas.thivillon[at]u-bordeaux.fr
   phone: 
   address: 
-    street: DIAL - Université Paris Dauphine - PSL, 4 rue d'Enghien
+    street:  BSE - Université de Bordeaux - 16 avenue Léon Duguit - Bât. H2 - CS 50057 - 33608 Pessac CEDEX - FRANCE
     postcode: 'France.'
     city: 75010 Paris
     country: 

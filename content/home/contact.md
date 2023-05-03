@@ -28,9 +28,9 @@ content:
   email: thomas.thivillon[at]u-bordeaux.fr
   phone: 
   address: 
-    street:  BSE - Université de Bordeaux - 16 avenue Léon Duguit - Bât. H2 - CS 50057 - 33608 Pessac CEDEX - FRANCE
-    postcode: 'France.'
-    city: 75010 Paris
+    street:  BSE - 16 avenue Léon Duguit - Bât. H2
+    postcode: 'FRANCE.'
+    city: CS 50057 - 33608 Pessac CEDEX
     country: 
     region: 
     country_code: 

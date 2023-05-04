@@ -75,7 +75,7 @@ highlight_name: false
 
 I am a **development economist** with interests in **environment, health, and gender equality**. My current work focuses on the economic determinants of exposure to air pollution in developing countries and on the evaluation of public policy interventions aimed at increasing the adoption of environmental behaviors or environmental technologies.
 
-I received a PhD in Economics from [Université Paris Dauphine](https://dauphine.psl.eu/en/) and [PSL](https://psl.eu/en) in November 2022.
+I received a PhD in Economics from [Université Paris Dauphine](https://dauphine.psl.eu/en/) and [PSL](https://psl.eu/en) in November 2022. My job market paper received the [Program Chair Award](https://www.ashecon.org/awards/introducing-the-2023-ashecon-award-winners/) in "Climate, Pollution, Environment and Health" at the ASHEcon Annual Conference 2023.
 
 **I am currently a postdoctoral researcher at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, Université de Bordeaux).**
 

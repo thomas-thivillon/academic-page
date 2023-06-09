@@ -77,7 +77,7 @@ I am a **development economist** with interests in **environment, health, and ge
 
 I received a PhD in Economics from [Université Paris Dauphine](https://dauphine.psl.eu/en/) and [PSL](https://psl.eu/en) in November 2022. My job market paper received the [Program Chair Award](https://www.ashecon.org/awards/introducing-the-2023-ashecon-award-winners/) in "Climate, Pollution, Environment and Health" at the ASHEcon Annual Conference 2023.
 
-**I am currently a postdoctoral researcher at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, Université de Bordeaux).**
+**I am currently a postdoctoral researcher at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, University of Bordeaux).**
 
 I am also affiliated to [DIAL](https://dial.ird.fr/en/) (IRD, CNRS, Dauphine-PSL).
 

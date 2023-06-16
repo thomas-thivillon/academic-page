@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-09-01T00:00:00Z'
+date: '2023-06-06T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Tradeoffs podcast
-url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
+  url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
 
 url_pdf: 'https://osf.io/preprints/socarxiv/yh5xs/'
 url_code: ''

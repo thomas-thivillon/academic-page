@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\media",
     "\\content",
     "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\home",
-    "\\content\\post",
     "\\content\\publication",
     "\\content\\publication\\FISE",
     "\\data",
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\static\\uploads\\resume.pdf",
+  "SelectedNode": "\\content\\authors\\admin\\avatar.JPG",
   "PreviewInSolutionExplorer": false
 }

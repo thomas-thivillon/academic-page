@@ -7,9 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Job Market Paper
-    url: '#jmp'
-    weight: 15
   - name: Research
     url: '#wp'
     weight: 20

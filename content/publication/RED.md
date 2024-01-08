@@ -1,11 +1,11 @@
 ---
-title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru [Submitted]'
+title: 'Air Pollution and Wood Consumption in Burkina Faso'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - PROGRAM CHAIR AWARD IN CLIMATE/POLLUTION/ENVIRONMENTAL & HEALTH - ASHEcon ANNUAL CONFERENCE 2023
+  - with Philippe De Vreyer and Elodie Djemaï
 
 
 # Author notes (optional)
@@ -23,13 +23,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['4']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: SocArXiv Preprints, September 2022
+publication: Revue d'économie du développement (forthcoming).
 #publication_short: In *ICW*
 
-abstract: I evaluate the effect of the conversion of households from wood-fuel cooking to liquefied petroleum gas (LPG) cooking on infant mortality using data from sixteen waves of Peru’s continuous Demographic and Health Survey. I exploit the sequential introduction of LPG subsidies targeting low-income households and compare early-treated districts to later or never treated districts using a staggered difference-in-difference estimation strategy. I find that infant mortality increased by 15% as a result of the massive fuel switch induced by the intervention, which corresponds to at least 6,600 additional infant deaths between 2010 and 2020. Subsidizing LPG also caused a higher incidence of symptoms of acute respiratory infections in children under five and of moderate or severe anemia among adult women, two conditions which are known to be induced by exposure to air pollution from cooking fuels. I show that these unexpected results are most likely explained by the fact that the switch to LPG led households which were previously cooking outdoors to start mainly cooking indoors, thus radically modifying the ventilation quality of their cooking area. These findings suggest that clean cooking interventions need to pay more attention to choices of cooking location and to cooking area ventilation.
+abstract: Analyzing a sample of approximately 800 households, this study measures the extent of household air pollution in Burkina Faso and assesses the relationship between exposure to fine particles and the consumption of wood for cooking.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -40,11 +40,11 @@ tags: ["energy access", "child health", "air pollution", "infant mortality", "co
 featured: true
 
 # Custom links (uncomment lines below)
-links:
+# links:
 - name: Tradeoffs podcast
   url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
 
-url_pdf: 'https://osf.io/preprints/socarxiv/yh5xs/'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: Tradeoffs podcast
-  url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
+# - name: Tradeoffs podcast
+#  url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
 
 url_pdf: ''
 url_code: ''

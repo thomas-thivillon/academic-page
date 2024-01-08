@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-09-01T00:00:00Z'
+date: '2023-09-01T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,7 @@ abstract: I evaluate the effect of the conversion of households from wood-fuel c
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["energy access", "child health", "air pollution", "infant mortality", "cooking", "LPG", "Peru"]
+tags: ["energy access", "health", "air pollution", "infant mortality", "cooking", "LPG", "Peru"]
 
 # Display this page in the Featured widget?
 featured: true

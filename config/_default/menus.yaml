@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#wp'
+    url: '#publis'
     weight: 20
   - name: CV
     url: '#'

@@ -5,7 +5,7 @@ title: 'Air Pollution and Wood Consumption in Burkina Faso'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - with Philippe De Vreyer and Elodie Djemaï
+  - with Philippe De Vreyer and Elodie Djemaï. Forthcoming in Revue d'économie du développement (2024).
 
 
 # Author notes (optional)
@@ -40,11 +40,11 @@ tags: ["energy access", "child health", "air pollution", "infant mortality", "co
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 # - name: Tradeoffs podcast
 #  url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
 
-url_pdf: ''
+url_pdf: 'uploads/RED.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

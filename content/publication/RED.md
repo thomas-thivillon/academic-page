@@ -5,7 +5,7 @@ title: 'Air Pollution and Wood Consumption in Burkina Faso'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - with Philippe De Vreyer and Elodie Djemaï. Forthcoming in Revue d'économie du développement (2024).
+  - with Philippe De Vreyer and Elodie Djemaï - Forthcoming in Revue d'économie du développement (2024)
 
 
 # Author notes (optional)

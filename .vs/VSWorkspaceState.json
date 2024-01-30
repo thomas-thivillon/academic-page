@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\media",
+    "\\config",
+    "\\config\\_default",
     "\\content",
-    "\\content\\authors",
+    "\\content\\admin",
+    "\\content\\home",
     "\\content\\publication",
-    "\\content\\publication\\FISE",
-    "\\data",
+    "\\content\\publication\\example",
     "\\static",
     "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\avatar.JPG",
+  "SelectedNode": "\\config\\_default\\menus.yaml",
   "PreviewInSolutionExplorer": false
 }

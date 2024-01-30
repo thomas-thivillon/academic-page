@@ -5,7 +5,7 @@ title: 'L’expérience du Recho Mirak : retour sur trois décennies de promotio
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Field Actions Science Reports, Special Issue 9 | 2014. URL: http://journals.openedition.org/factsreports/2824
+- Field Actions Science Reports, Special Issue 9, 2014.
 
 
 # Author notes (optional)
@@ -41,7 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: 
+- name: Online article
+  url: http://journals.openedition.org/factsreports/2824
 
 url_pdf: 'http://journals.openedition.org/factsreports/2824'
 url_code: ''

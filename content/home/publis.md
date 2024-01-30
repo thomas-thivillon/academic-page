@@ -24,7 +24,7 @@ content:
     publication_type: '3'
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
-  order: asc
+  order: desc
 
 design:
   # Choose a view for the listings:
@@ -32,5 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---

@@ -40,7 +40,7 @@ tags: ["energy access", "health", "air pollution", "infant mortality", "cooking"
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Online article
   url: http://journals.openedition.org/factsreports/2824
 

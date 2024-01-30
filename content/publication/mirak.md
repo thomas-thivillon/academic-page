@@ -26,7 +26,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Field Actions Science Reports, Special Issue 9, 2014. URL: http://journals.openedition.org/factsreports/2824
+publication: Field Actions Science Reports, Special Issue 9, 2014.
 #publication_short: In *ICW*
 
 abstract: I evaluate the effect of the conversion of households from wood-fuel cooking to liquefied petroleum gas (LPG) cooking on infant mortality using data from sixteen waves of Peru’s continuous Demographic and Health Survey. I exploit the sequential introduction of LPG subsidies targeting low-income households and compare early-treated districts to later or never treated districts using a staggered difference-in-difference estimation strategy. I find that infant mortality increased by 15% as a result of the massive fuel switch induced by the intervention, which corresponds to at least 6,600 additional infant deaths between 2010 and 2020. Subsidizing LPG also caused a higher incidence of symptoms of acute respiratory infections in children under five and of moderate or severe anemia among adult women, two conditions which are known to be induced by exposure to air pollution from cooking fuels. I show that these unexpected results are most likely explained by the fact that the switch to LPG led households which were previously cooking outdoors to start mainly cooking indoors, thus radically modifying the ventilation quality of their cooking area. These findings suggest that clean cooking interventions need to pay more attention to choices of cooking location and to cooking area ventilation.

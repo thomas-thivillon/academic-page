@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-09-01T00:00:00Z'
+date: '2013-12-27T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -40,9 +40,8 @@ tags: ["energy access", "health", "air pollution", "infant mortality", "cooking"
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Tradeoffs podcast
-  url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
+# links:
+# - name: 
 
 url_pdf: 'http://journals.openedition.org/factsreports/2824'
 url_code: ''

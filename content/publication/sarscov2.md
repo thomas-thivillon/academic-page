@@ -30,7 +30,7 @@ publication: medRxiv, March 2024
 #publication_short: In *ICW*
 
 abstract: "_Background:_ Since March 2020, COVID-19 has evolved from a localized outbreak to a global pandemic. We assessed the seroprevalence of COVID-19 in three towns in the Centre Sud region of Burkina Faso.  
-\n
+<br/>
 _Methods:_ A population-based cross-sectional survey was conducted in three medium-sized towns in Burkina Faso's Centre Sud region, from June to July 2021. Subjects aged 16 or over at the time of the survey were considered for this seroprevalence study. The Biosynex COVID-19 BSS rapid test was used to detect immunoglobulin G (IgG) and immunoglobulin M (IgM) against SARS-CoV-2. A standardized questionnaire was also administered to collect additional information.  
 
 _Results:_ A total of 2449 eligible participants (age ≥ 16 years) were identified. Serological tests for COVID-19 were performed in 2155 individuals. Finally, 2143 valid tests were retained and analyzed. Out of the entire sample, 246 positive tests were observed, corresponding to a prevalence of 11.48%. Prevalence was 9.35% (58 cases) in Kombissiri, 12.86% (80 cases) in Manga and 11.99% (108 cases) in Pô. By gender, 13.37% of women (164 cases) tested positive, and 8.95% of men (82 cases). Women accounted for 66.67% of all positive test subjects. The results show a significantly higher seroprevalence in women (P = 0.007), people over 55 years old (P = 0.004), overweight or obese people (P =0.026) and those with drinking water sources at home (0.013). 

@@ -21,7 +21,7 @@ content:
   filters:
     author: ''
     category: ''
-    publication_type: '4'
+    publication_type: '3'
     tag: 'health'
   # Page order: descending (desc) or ascending (asc) date.
   order: desc

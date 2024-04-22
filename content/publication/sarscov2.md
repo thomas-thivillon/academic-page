@@ -34,7 +34,7 @@ abstract: Background - Since March 2020, COVID-19 has evolved from a localized o
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["COVID-19", "SARS-CoV-2", "serological survey", "Burkina Faso"]
+tags: ["health", "COVID-19", "SARS-CoV-2", "serological survey", "Burkina Faso"]
 
 # Display this page in the Featured widget?
 featured: true

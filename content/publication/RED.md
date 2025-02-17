@@ -17,7 +17,7 @@ author_notes:
   - "That's me!"
 
 date: '2023-10-01T00:00:00Z'
-#doi: 'https://doi.org/10.3917/edd.373.0095.'
+doi: 'https://doi.org/10.3917/edd.373.0095.'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -29,7 +29,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Revue d'économie du développement (forthcoming).
+publication: "*Revue d'économie du développement*,Vol. 31(3), 95-101."
 #publication_short: In *ICW*
 
 abstract: Analysant un échantillon d’environ 800 ménages, cette étude quantifie l’ampleur de la pollution de l’air au Burkina Faso et évalue la relation entre l’exposition aux particules fines et la consommation de bois comme combustible utilisé pour la cuisson.
@@ -47,10 +47,10 @@ links:
  - name: Journal Link
   url: https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-95?lang=fr&ref=doi
  - name: PDF (in English)
-  url: 'uploads/RED.pdf'
+  url: https://www.thomasthivillon.com/uploads/RED.pdf
 
 
-url_pdf:
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

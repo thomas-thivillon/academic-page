@@ -14,10 +14,12 @@ authors:
   - Abdramane Berthé
 
 
-# Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+Author notes (optional)
+author_notes:
+  - 
+  - 
+  -
+  - "That's me!"
 
 date: '2024-08-07'
 #doi: 'https://doi.org/10.1371/journal.pone.0305850'

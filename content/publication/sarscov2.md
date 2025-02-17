@@ -5,7 +5,13 @@ title: 'Seroprevalence and Risk Factors for SARS-CoV-2 Infection in Middle-Sized
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - with Adama Sana, Elodie Djemaï, Philippe De Vreyer, Dramane Kania, Hermann Badolo and Abdramane Berthé. **PLoS ONE**, 19(8), e0305850 (2024)
+  - Adama Sana
+  - Elodie Djemaï
+  - Philippe De Vreyer
+  - Thomas Thivillon
+  - Dramane Kania
+  - Hermann Badolo
+  - Abdramane Berthé
 
 
 # Author notes (optional)
@@ -13,8 +19,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024-04-01T00:00:00Z'
-#doi: ''
+date: '2024'
+#doi: 'https://doi.org/10.1371/journal.pone.0305850'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -26,7 +32,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: medRxiv, March 2024
+publication: PLoS ONE
 #publication_short: In *ICW*
 
 abstract: "_Background:_ Since March 2020, COVID-19 has evolved from a localized outbreak to a global pandemic. We assessed the seroprevalence of COVID-19 in three towns in the Centre Sud region of Burkina Faso.  

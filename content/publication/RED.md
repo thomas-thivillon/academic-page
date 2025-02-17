@@ -32,7 +32,7 @@ publication_types: ['2']
 publication: "*Revue d'économie du développement*,Vol. 31(3), 95-101"
 #publication_short: In *ICW*
 
-abstract: Analysant un échantillon d’environ 800 ménages, cette étude quantifie l’ampleur de la pollution de l’air au Burkina Faso et évalue la relation entre l’exposition aux particules fines et la consommation de bois comme combustible utilisé pour la cuisson.
+abstract: "Analysant un échantillon d’environ 800 ménages, cette étude quantifie l’ampleur de la pollution de l’air au Burkina Faso et évalue la relation entre l’exposition aux particules fines et la consommation de bois comme combustible utilisé pour la cuisson."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,8 +46,7 @@ featured: true
 links:
  - name: Journal Link
   url: https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-95?lang=fr&ref=doi
- #- name: "PDF (in English)"
- # url: https://www.thomasthivillon.com/uploads/RED.pdf
+
 
 
 url_pdf: ''

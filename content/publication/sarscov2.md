@@ -19,7 +19,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024'
+date: '2024-08-07'
 #doi: 'https://doi.org/10.1371/journal.pone.0305850'
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +33,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: PLoS ONE
-#publication_short: In *ICW*
+publication_short:  19(8): e0305850
 
 abstract: "_Background:_ Since March 2020, COVID-19 has evolved from a localized outbreak to a global pandemic. We assessed the seroprevalence of COVID-19 in three towns in the Centre Sud region of Burkina Faso.  
 <br/>

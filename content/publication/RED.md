@@ -1,5 +1,5 @@
 ---
-title: 'Pollution de l'air et consommation de bois au Burkina Faso'
+title: 'Air Pollution and Wood Consumption in Burkina Faso'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

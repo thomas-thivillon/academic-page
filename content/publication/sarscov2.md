@@ -14,7 +14,7 @@ authors:
   - Abdramane Berthé
 
 
-Author notes (optional)
+# Author notes (optional)
 author_notes:
   - 
   - 

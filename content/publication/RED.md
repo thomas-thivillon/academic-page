@@ -6,7 +6,7 @@ title: 'Pollution de l'air et consommation de bois au Burkina Faso'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Philippe De Vreyer
-  - "Élodie Djemaï"
+  - Elodie Djemai
   - Thomas Thivillon
 
 

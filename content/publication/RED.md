@@ -1,5 +1,5 @@
 ---
-title: 'L’expérience du Recho Mirak : retour sur trois décennies de promotion des foyers améliorés en Haïti'
+title: 'Pollution de l’air et consommation de bois au Burkina Faso'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

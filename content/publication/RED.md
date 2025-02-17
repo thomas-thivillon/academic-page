@@ -1,20 +1,23 @@
 ---
-title: 'Air Pollution and Wood Consumption in Burkina Faso'
+title: 'Pollution de l'air et consommation de bois au Burkina Faso'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - with Philippe De Vreyer and Elodie Djemaï. Revue d'économie du développement, Vol. 31(3), 95-101 (2023)
+  - Philippe De Vreyer
+  - "Élodie Djemaï"
+  - Thomas Thivillon
 
 
 # Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+author_notes:
+  - 
+  -
+  - "That's me!"
 
 date: '2023-10-01T00:00:00Z'
-#doi: ''
+#doi: 'https://doi.org/10.3917/edd.373.0095.'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -29,7 +32,7 @@ publication_types: ['2']
 publication: Revue d'économie du développement (forthcoming).
 #publication_short: In *ICW*
 
-abstract: Analyzing a sample of approximately 800 households, this study measures the extent of household air pollution in Burkina Faso and assesses the relationship between exposure to fine particles and the consumption of wood for cooking.
+abstract: Analysant un échantillon d’environ 800 ménages, cette étude quantifie l’ampleur de la pollution de l’air au Burkina Faso et évalue la relation entre l’exposition aux particules fines et la consommation de bois comme combustible utilisé pour la cuisson.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,10 +44,13 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: Tradeoffs podcast
-#  url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
+ - name: Journal Link
+  url: https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-95?lang=fr&ref=doi
+ - name: PDF (in English)
+  url: 'uploads/RED.pdf'
 
-url_pdf: 'uploads/RED.pdf'
+
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''

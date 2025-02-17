@@ -43,6 +43,8 @@ featured: true
 links:
 - name: Journal Link
   url: http://journals.openedition.org/factsreports/2824
+- name: Abstract in English
+  url: https://journals.openedition.org/factsreports/2824#abstract
 
 url_pdf: ''
 url_code: ''

@@ -5,7 +5,7 @@ title: 'Seroprevalence and Risk Factors for SARS-CoV-2 Infection in Middle-Sized
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - with Adama Sana, Elodie Djemaï, Philippe De Vreyer, Dramane Kania, Hermann Badolo and Abdramane Berthé. PLoS ONE, 19(8): e0305850 (2024).
+  - 'with Adama Sana, Elodie Djemaï, Philippe De Vreyer, Dramane Kania, Hermann Badolo and Abdramane Berthé. PLoS ONE, 19(8): e0305850 (2024).'
 
 
 # Author notes (optional)

@@ -11,7 +11,7 @@ authors:
 
 
 # Author notes (optional)
-#author_notes:
+author_notes:
   - 
   - 
   - "That's me!"

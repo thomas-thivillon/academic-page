@@ -1,5 +1,5 @@
 ---
-title: "Adama Sana, Elodie Djemaï, Thomas Thivillon, Philippe De Vreyer, Dramane Kania, Hermann Badolo and Abdramane Berthé (2024).'Seroprevalence and Risk Factors for SARS-CoV-2 Infection in Middle-Sized Cities of Burkina Faso: A Descriptive Cross-Sectional Study'"
+title: "Adama Sana, Elodie Djemaï, Thomas Thivillon, Philippe De Vreyer, Dramane Kania, Hermann Badolo and Abdramane Berthé (2024). <a Seroprevalence and Risk Factors for SARS-CoV-2 Infection in Middle-Sized Cities of Burkina Faso: A Descriptive Cross-Sectional Study</a>"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

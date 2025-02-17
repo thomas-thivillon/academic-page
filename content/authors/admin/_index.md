@@ -7,12 +7,12 @@ title:
 superuser: false
 
 # Role/position/tagline
-role:
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:
-    url: ""
+  - name: Bordeaux School of Economics
+    url: "https://www.bse.u-bordeaux.fr/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: []

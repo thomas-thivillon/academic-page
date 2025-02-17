@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\config\\_default",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\assets",
+    "\\assets\\media",
+    "\\assets\\media\\albums",
+    "\\assets\\media\\icons",
     "\\content",
-    "\\content\\admin",
-    "\\content\\home",
-    "\\content\\publication",
-    "\\content\\publication\\example",
-    "\\static",
-    "\\static\\uploads"
+    "\\content\\event",
+    "\\content\\event\\example"
   ],
-  "SelectedNode": "\\config\\_default\\menus.yaml",
+  "SelectedNode": "\\content\\publication\\example\\index.md",
   "PreviewInSolutionExplorer": false
 }

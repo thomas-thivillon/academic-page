@@ -16,8 +16,8 @@ author_notes:
   - 
   - "That's me!"
 
-date: '2013-12-27T00:00:00Z'
-#doi: ''
+date: '2023-12-01T00:00:00Z'
+doi: 'https://doi.org/10.3917/edd.373.0095'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

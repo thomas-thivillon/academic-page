@@ -46,8 +46,8 @@ featured: true
 links:
  - name: Journal Link
   url: https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-95?lang=fr&ref=doi
- - name: "PDF (in English)"
-  url: https://www.thomasthivillon.com/uploads/RED.pdf
+ #- name: "PDF (in English)"
+ # url: https://www.thomasthivillon.com/uploads/RED.pdf
 
 
 url_pdf: ''

@@ -49,11 +49,11 @@ tags: ["health", "COVID-19", "SARS-CoV-2", "serological survey", "Burkina Faso"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Journal Link
-#  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305850
+links:
+- name: Journal Link
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305850
 
-url_pdf: 'uploads/sana_et_al_2024.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

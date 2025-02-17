@@ -46,7 +46,7 @@ featured: true
 links:
 - name: Journal Link
   url: https://doi.org/10.3917/edd.373.0095 
-- name: PDF (in English)
+- name: English translation
   url: https://www.thomasthivillon.com/uploads/RED.pdf
 
 url_pdf: ''

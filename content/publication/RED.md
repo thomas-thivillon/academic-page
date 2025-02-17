@@ -12,8 +12,9 @@ authors:
 
 # Author notes (optional)
 #author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+  - 
+  - 
+  - "That's me!"
 
 date: '2013-12-27T00:00:00Z'
 #doi: ''

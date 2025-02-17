@@ -44,7 +44,7 @@ links:
 - name: Journal Link
   url: http://journals.openedition.org/factsreports/2824
 
-url_pdf: 'http://journals.openedition.org/factsreports/2824'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

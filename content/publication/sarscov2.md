@@ -34,7 +34,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "<span style="color:red"> *PLoS ONE* </span>, 19(8): e0305850"
+publication: "*PLoS ONE*, 19(8): e0305850"
 #publication_short: 
 
 abstract: "_Background:_ Since March 2020, COVID-19 has evolved from a localized outbreak to a global pandemic. We assessed the seroprevalence of COVID-19 in three towns in the Centre Sud region of Burkina Faso.  

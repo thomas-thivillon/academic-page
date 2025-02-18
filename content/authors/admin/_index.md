@@ -82,8 +82,8 @@ I am currently a postdoctoral researcher at the [Bordeaux School of Economics](h
 Prior to starting my PhD, I worked in the non-profit sector for over a decade with a focus on access to energy and clean cooking interventions in developing countries.
 
 **NEWS:**
-- I will be joining the French National Research Institute for Sustainable Development ([IRD](https://www.bse.u-bordeaux.fr/)) as a postdoctoral fellow for the 2025-26 academic year!
-- Preliminary results of the REDGAS field experiment (joint work with Philippe De Vreyer, Élodie Djemaï, and Adama Sana) on impacts of financial incentives for the adoption of gas stoves are now available in the French Development Agency's evaluation reports collection and can be downloaded [here](https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso)! 
+- **I will be joining the French National Research Institute for Sustainable Development** ([IRD](https://www.bse.u-bordeaux.fr/)) as a postdoctoral fellow for the 2025-26 academic year!
+- **Preliminary results of the REDGAS field experiment** (joint work with Philippe De Vreyer, Élodie Djemaï, and Adama Sana) on the impacts of financial incentives for the adoption of gas stoves are now available in the French Development Agency's evaluation reports collection and can be downloaded [here](https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso)! 
 
 
 

@@ -27,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revue d'économie du développement*, Vol. 31(3), 95-101"
+publication: ''
 #publication_short: In *ICW*
 
 abstract: Avec le lancement de l’initiative des Nations Unies en faveur d’une « Energie durable pour tous », les foyers améliorés jouissent d’un regain d’intérêt de la part de la communauté internationale. Cet article se propose de contribuer à la réflexion et aux nouveaux projets d’accès à l’énergie en revenant sur trois décennies de promotion des foyers améliorés en Haïti, riches d’enseignements. Il analyse l’expérience du Recho Mirak, un foyer à charbon développé au début des années 1980 en distinguant ses différentes composantes - apports techniques, stratégie de marketing et système de production. En croisant les résultats de trois tests d’efficacité récents conduits avec ce foyer, les données issues d’enquêtes quantitatives et qualitatives auprès des utilisateurs réalisées au cours de l’année 2012, et les archives de projets de promotion du Recho Mirak issues de la Revue Synergies et des rapports d’évaluation disponibles, l’auteur met en évidence les acquis de cette expérience et les défis restant à relever pour convertir la majorité des ménages haïtiens à une cuisson plus efficace.
@@ -42,10 +42,9 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Journal Link
-  url: https://doi.org/10.3917/edd.373.0095 
-- name: English translation
-  url: https://www.thomasthivillon.com/uploads/RED.pdf
+- name: Evaluation report
+  url: https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso
+
 
 url_pdf: ''
 url_code: ''

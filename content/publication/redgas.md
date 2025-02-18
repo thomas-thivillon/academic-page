@@ -40,7 +40,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Evaluation Report
    url: https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso
 

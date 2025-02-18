@@ -44,12 +44,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/ThomasThivillon
+    link: https://bsky.app/profile/thomasthivillon.bsky.social
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=T22wnx4AAAAJ
+    link: https://scholar.google.com/citations?hl=fr&user=MuoKE2KqnaEC
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen

@@ -41,7 +41,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-  - name: Preprint
+- name: Preprint
   url: https://osf.io/preprints/socarxiv/m8k6b/
 
 url_pdf: 'uploads/DICHCA.pdf'

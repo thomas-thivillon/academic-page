@@ -1,5 +1,5 @@
 ---
-title: 'Tackling household air pollution with e-cooking in Abidjan (Cote d'Ivoire)'
+title: '"Tackling household air pollution with e-cooking in Abidjan (Cote d'Ivoire)"'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

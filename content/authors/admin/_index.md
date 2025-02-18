@@ -44,7 +44,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: bluesky
+  - icon: twitter
     icon_pack: fab
     link: https://bsky.app/profile/thomasthivillon.bsky.social
   - icon: google-scholar
@@ -83,7 +83,7 @@ Prior to starting my PhD, I worked in the non-profit sector for over a decade wi
 
 **NEWS:**
 - I will be joining the French National Research Institute for Sustainable Development ([IRD](https://www.bse.u-bordeaux.fr/)) as a postdoctoral fellow for the 2025-26 academic year!
-- Preliminary results of the REDGAS field experiment on the air pollution and health impacts of financial incentives for the adoption of gas stoves are now available in the French Development Agency's evaluation reports collection and can be downloaded [here](https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso)! 
+- Preliminary results of the REDGAS field experiment (joint work with Philippe De Vreyer, Élodie Djemaï, and Adama Sana) on impacts of financial incentives for the adoption of gas stoves are now available in the French Development Agency's evaluation reports collection and can be downloaded [here](https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso)! 
 
 
 

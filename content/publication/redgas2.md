@@ -35,15 +35,17 @@ abstract: "We evaluate an intervention aimed at reducing household air pollution
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["energy access", "health", "air pollution", "infant mortality", "cooking", "LPG", "Peru"]
+tags: ["energy access", "health", "air pollution", "cooking", "LPG", "Burkina Faso"]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Evaluation report
+- name: Evaluation Report
   url: https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso
+- name: Pre-analysis Plan
+  url: uploads/PAP_REDGAS.pdf
 
 
 url_pdf: ''

@@ -46,6 +46,8 @@ links:
   url: https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso
 - name: Pre-analysis Plan
   url: uploads/PAP_REDGAS.pdf
+- name: Project Website
+  url: https://paires.hypotheses.org/evaluation-dimpact/redgas
 
 
 url_pdf: ''

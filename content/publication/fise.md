@@ -41,10 +41,12 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: Preprint
+  url: https://osf.io/preprints/socarxiv/yh5xs/
 - name: Tradeoffs podcast
   url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
 
-url_pdf: 'https://osf.io/preprints/socarxiv/yh5xs/'
+url_pdf: 'uploads/Thivillon_CookingGas.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

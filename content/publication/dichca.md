@@ -40,11 +40,11 @@ tags: ["child labor", "health", "aging", "gender inequalities", "education", "Af
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Preprint
+  url: https://osf.io/preprints/socarxiv/m8k6b/
 
-url_pdf: 'https://osf.io/preprints/socarxiv/m8k6b/'
+url_pdf: 'uploads/DICHCA.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

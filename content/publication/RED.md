@@ -32,12 +32,12 @@ publication_types: ['2']
 publication: "*Revue d'économie du développement*, Vol. 31(3), 95-101"
 #publication_short: In *ICW*
 
-abstract: Avec le lancement de l’initiative des Nations Unies en faveur d’une « Energie durable pour tous », les foyers améliorés jouissent d’un regain d’intérêt de la part de la communauté internationale. Cet article se propose de contribuer à la réflexion et aux nouveaux projets d’accès à l’énergie en revenant sur trois décennies de promotion des foyers améliorés en Haïti, riches d’enseignements. Il analyse l’expérience du Recho Mirak, un foyer à charbon développé au début des années 1980 en distinguant ses différentes composantes - apports techniques, stratégie de marketing et système de production. En croisant les résultats de trois tests d’efficacité récents conduits avec ce foyer, les données issues d’enquêtes quantitatives et qualitatives auprès des utilisateurs réalisées au cours de l’année 2012, et les archives de projets de promotion du Recho Mirak issues de la Revue Synergies et des rapports d’évaluation disponibles, l’auteur met en évidence les acquis de cette expérience et les défis restant à relever pour convertir la majorité des ménages haïtiens à une cuisson plus efficace.
+abstract: Analysant un échantillon d’environ 800 ménages, cette étude quantifie l’ampleur de la pollution de l’air au Burkina Faso et évalue la relation entre l’exposition aux particules fines et la consommation de bois comme combustible utilisé pour la cuisson.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["energy access", "energy efficiency", "improved cookstoves", "Haïti"]
+tags: ["energy access", "air pollution", "solid fuels", "cooking", "Burkina Faso"]
 
 # Display this page in the Featured widget?
 featured: true

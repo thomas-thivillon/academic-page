@@ -1,5 +1,5 @@
 ---
-title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru [Submitted]'
+title: 'Saving lives with cooking gas? Unintended effects of targeted LPG subsidies in Peru'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

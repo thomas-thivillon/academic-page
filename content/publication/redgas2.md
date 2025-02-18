@@ -30,7 +30,7 @@ publication_types: ['3']
 publication: ''
 #publication_short: In *ICW*
 
-abstract: 
+abstract: We evaluate an intervention aimed at reducing household air pollution in Burkina Faso by encouraging households to switch from wood or charcoal to liquefied petroleum gas (LPG) as their main cooking fuel.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

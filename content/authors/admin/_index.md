@@ -73,7 +73,7 @@ highlight_name: true
 
 Welcome to my academic home page!
 
-I am a development economist working on questions in environmental/energy, health, and gender inequality. In my work, I use experimental and non-experimental applied econometrics methods and combine surveys, sensor data and administrative data to study clean cooking technology adoption, the health effects of exposure to air pollution and the impacts of household production activites such as cooking on women's well-being. Part of my research is based on extensive fieldwork in Burkina Faso.
+I am a development economist working on questions in environmental/energy, health, and gender inequality. In my work, I use experimental and non-experimental applied econometrics methods and combine surveys, sensor data and administrative data to study clean cooking technology adoption, the health effects of exposure to air pollution, and the impacts of household production activites such as cooking on women's well-being. Part of my research is based on extensive fieldwork in Burkina Faso.
 
 I received a PhD in Economics from [Paris Dauphine University - PSL](https://dauphine.psl.eu/en/) in November 2022. My job market paper received the [Program Chair Award](https://www.ashecon.org/2023-ashecon-program-chair-awards/) in "Climate, Pollution, Environment and Health" at the ASHEcon Annual Conference 2023.
 

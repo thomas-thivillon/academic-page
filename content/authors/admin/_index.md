@@ -71,17 +71,18 @@ email: ''
 highlight_name: false
 ---
 
-**Welcome to my webpage!** 
+Welcome to my academic home page!
 
-I am a **development economist** with interests in **environment, health, and gender equality**. My current work focuses on the economic determinants of exposure to air pollution in developing countries and on the evaluation of public policy interventions aimed at increasing the adoption of environmental behaviors or environmental technologies.
+I am a development economist working on questions in environmental/energy, health, and gender inequality. In my work, I use experimental and non-experimental applied econometrics methods and combine surveys, sensor data and administrative data to study clean cooking technology adoption, the health effects of exposure to air pollution and the impacts of household production activites such as cooking on women's well-being. Part of my research is based on extensive fieldwork in Burkina Faso.
 
-I received a PhD in Economics from [Université Paris Dauphine](https://dauphine.psl.eu/en/) and [PSL](https://psl.eu/en) in November 2022. My job market paper received the [Program Chair Award](https://www.ashecon.org/2023-ashecon-program-chair-awards/) in "Climate, Pollution, Environment and Health" at the ASHEcon Annual Conference 2023.
+I received a PhD in Economics from [Paris Dauphine University - PSL](https://dauphine.psl.eu/en/) in November 2022. My job market paper received the [Program Chair Award](https://www.ashecon.org/2023-ashecon-program-chair-awards/) in "Climate, Pollution, Environment and Health" at the ASHEcon Annual Conference 2023.
 
-**I am currently a postdoctoral researcher at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, University of Bordeaux).**
-
-I am also affiliated to [DIAL](https://dial.ird.fr/en/) (IRD, CNRS, Dauphine-PSL).
+I am currently a postdoctoral researcher at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (BSE, University of Bordeaux). I am also affiliated to [DIAL](https://dial.ird.fr/en/) (IRD, CNRS, Dauphine-PSL).
 
 Prior to starting my PhD, I worked in the non-profit sector for over a decade with a focus on access to energy and clean cooking interventions in developing countries.
+
+**NEWS:**
+- The policy report presenting 
 
 
 

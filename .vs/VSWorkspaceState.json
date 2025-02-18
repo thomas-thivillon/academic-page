@@ -1,16 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\assets",
     "\\assets\\media",
     "\\assets\\media\\albums",
-    "\\assets\\media\\icons",
+    "\\assets\\scss",
     "\\content",
-    "\\content\\event",
-    "\\content\\event\\example"
+    "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\home",
+    "\\content\\post",
+    "\\data",
+    "\\data\\themes"
   ],
-  "SelectedNode": "\\content\\publication\\example\\index.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

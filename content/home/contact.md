@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://bsky.app/profile/thomasthivillon.bsky.social'
 #    - icon: video
 #      icon_pack: fas
 #      name: Zoom Me

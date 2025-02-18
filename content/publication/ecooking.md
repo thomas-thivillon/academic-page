@@ -1,5 +1,5 @@
 ---
-title: 'Tackling household air pollution with e-cooking in Cote d'Ivoire'
+title: 'Tackling household air pollution with electric cooking in Abdijan, Cote d'Ivoire'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -29,7 +29,7 @@ publication_types: ['0']
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: This project investigates the determinants of CoViD-19 transmission in Burkina Faso with a focus on behavioural factors. We conduct a randomized experiment in which an information treatment aimed at addressing informational market failures is cross-randomized with unconditional cash transfers designed to incentivize households to adopt preventive actions (regular handwashing, wearing face masks, etc). Rapid COVID-19 serological tests are conducted in all adult individuals belonging to the sample before and after the intervention. We estimate the effect of access to information and cash transfers on serological status at endline.
+abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

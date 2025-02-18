@@ -1,11 +1,11 @@
 ---
-title: 'Tackling household air pollution with e-cooking in Abidjan, Cote d'Ivoire'
+title: 'Tackling household air pollution with e-cooking in Abidjan'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
- - "Pilot study funded by the Fund for Innovation in Development (FID)"
+- "Pilot study funded by the Fund for Innovation in Development (FID)"
 
 
 # Author notes (optional)

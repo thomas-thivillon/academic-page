@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Preprint
-  url: https://osf.io/preprints/socarxiv/yh5xs/
+#- name: Preprint
+#  url: https://osf.io/preprints/socarxiv/yh5xs/
 - name: Tradeoffs podcast
   url: https://tradeoffs.org/2023/06/08/ashecon-2023-health-economics/
 

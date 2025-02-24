@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\media",
-    "\\assets\\media\\albums",
-    "\\assets\\scss",
     "\\content",
     "\\content\\authors",
     "\\content\\authors\\admin",
-    "\\content\\home",
-    "\\content\\post",
+    "\\content\\publication",
     "\\data",
-    "\\data\\themes"
+    "\\data\\themes",
+    "\\images",
+    "\\static",
+    "\\static\\uploads"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\publication\\dichca.md",
   "PreviewInSolutionExplorer": false
 }

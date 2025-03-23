@@ -82,6 +82,7 @@ I am currently a postdoctoral researcher at the [Bordeaux School of Economics](h
 Prior to starting my PhD, I worked in the non-profit sector for over a decade with a focus on access to energy and clean cooking interventions in developing countries.
 
 **NEWS:**
+- **My paper titled: "Demand for informal caregiving and human capital accumulation" is now Revise & Resubmit at the Journal of Health Economics.**
 - **I will be joining the French National Research Institute for Sustainable Development ([IRD](https://www.bse.u-bordeaux.fr/)) as a postdoctoral fellow for the 2025-26 academic year!**
 - **New RCT results on the impacts of financial incentives for the adoption of gas stoves now available [here](https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso) (joint work with Philippe De Vreyer, Élodie Djemaï, and Adama Sana)!**
 

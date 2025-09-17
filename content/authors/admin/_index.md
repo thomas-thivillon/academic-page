@@ -7,7 +7,7 @@ title:
 superuser: false
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:

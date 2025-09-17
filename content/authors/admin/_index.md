@@ -73,9 +73,9 @@ highlight_name: true
 
 Welcome to my academic homepage!
 
-I am a development economist working on questions in environmental/energy, health, and gender inequality. In my work, I use experimental and non-experimental applied econometrics methods and combine surveys, sensor data and administrative data to study clean cooking technology adoption, the health effects of exposure to air pollution, and the impacts of household production activities such as cooking on women's well-being. Part of my research is based on extensive fieldwork in Burkina Faso.
-
 I am an Assistant Professor of Economics at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/), [University of Bordeaux](https://www.u-bordeaux.fr/en). Prior to this, I was a Postdoctoral Fellow at the [French National Research Institute for Sustainable Development](https://en.ird.fr/). I received a PhD in Economics from [Paris Dauphine University - PSL](https://dauphine.psl.eu/en/) in November 2022.
+
+I am a development economist working on questions in environmental/energy, health, and gender inequality. In my work, I use experimental and non-experimental applied econometrics methods and combine surveys, sensor data and administrative data to study clean cooking technology adoption, the health effects of exposure to air pollution, and the impacts of household production activities such as cooking on gender inequalities. Part of my research is based on extensive fieldwork in Burkina Faso.
 
 Before joining academia, I worked in the non-profit sector for over a decade with a focus on access to energy and clean cooking interventions in developing countries.
 

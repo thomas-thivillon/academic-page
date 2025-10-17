@@ -28,7 +28,7 @@ content:
   email: thomas.thivillon[at]u-bordeaux.fr
   phone: 
   address: 
-    street:  BSE - 16 avenue Léon Duguit , Bât. H2
+    street:  BxSE - 16 avenue Léon Duguit , Bât. H2
     postcode: 'FRANCE.'
     city: CS 50057, 33608 Pessac CEDEX
     country: 

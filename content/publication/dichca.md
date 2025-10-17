@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2025-10-17T00:00:00Z'
-#doi: 'https://doi.org/10.1016/j.jhealeco.2025.103076'
+#doi: 'https://www.sciencedirect.com/science/article/pii/S0167629625001110'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -44,7 +44,7 @@ links:
 #- name: Preprint
 #  url: https://osf.io/preprints/socarxiv/m8k6b/
 
-url_pdf: 'https://doi.org/10.1016/j.jhealeco.2025.103076'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0167629625001110'
 url_code: ''
 url_dataset: ''
 url_poster: ''

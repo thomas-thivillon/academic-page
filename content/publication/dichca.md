@@ -13,8 +13,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-09-02T00:00:00Z'
-#doi: ''
+date: '2025-10-17T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.jhealeco.2025.103076'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

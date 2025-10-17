@@ -80,7 +80,7 @@ I am a development economist working on questions in environmental/energy, healt
 Before joining academia, I worked in the non-profit sector for over a decade with a focus on access to energy and clean cooking interventions in developing countries.
 
 **NEWS:**
-- **My paper titled: "Demand for informal caregiving and human capital accumulation" is now Revise & Resubmit at the Journal of Health Economics.**
+- **My paper titled: [Demand for informal caregiving and human capital accumulation](https://doi.org/10.1016/j.jhealeco.2025.103076) is now __forthcoming__ at the Journal of Health Economics.**
 - **New RCT results on the impacts of financial incentives for the adoption of gas stoves now available [here](https://www.afd.fr/en/ressources/reducing-pollution-cooking-smoke-key-lessons-redgas-randomized-study-burkina-faso) (joint work with Philippe De Vreyer, Élodie Djemaï, and Adama Sana)!**
 
 

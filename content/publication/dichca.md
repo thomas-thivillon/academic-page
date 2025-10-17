@@ -5,7 +5,7 @@ title: 'Demand for informal caregiving and human capital accumulation: Evidence 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "[R&R Journal of Health Economics]"
+  - Thomas Thivillon
 
 
 # Author notes (optional)
@@ -23,13 +23,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Wowchemy Conference*
+publication: "*Journal of Health Economics*, forthcoming"
 #publication_short: In *ICW*
 
-abstract: Women carry a disproportionate share of the burden of informal caregiving to functionally dependent relatives such as old age individuals. In developing economies, this burden tends to fall on the shoulders of female adolescents in particular for cultural and economic reasons. This paper uses original panel data from Senegal to evaluate the effect of co-residence with elderly individuals on the educational attainment of female children. To identify this effect, I exploit the deaths of elderly co-residents which occur during the study period in an empirical strategy which relies on triple-differences with child fixed-effects. I show that an event of elderly death is associated with 23% additional education completed over a period of 4 years by affected girls. I present evidence that changes in demand for informal caregiving within the household are one of the mechanisms at play. These results call for increased attention to specific forms of domestic child labor in public policies in order to reduce gender inequalities in education.
+abstract: This paper uses original panel data from Senegal to evaluate the effect of elderly household members’ deaths on the educational attainment of female children. Using a triple-difference strategy with child fixed-effects, I show that the death of a co-resident aged 60 or older is associated with 20% additional education completed over a period of 4 years by affected girls. I present evidence that changes in demand for informal caregiving among adolescent girls within the household are one of the mechanisms at play. These results highlight the central role of female teenagers in caregiving activities and suggest that policies that increase the availability of formal care for the elderly could reduce gender inequalities in education in contexts similar to Senegal.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +44,7 @@ links:
 #- name: Preprint
 #  url: https://osf.io/preprints/socarxiv/m8k6b/
 
-url_pdf: 'uploads/DICHCA.pdf'
+url_pdf: 'https://doi.org/10.1016/j.jhealeco.2025.103076'
 url_code: ''
 url_dataset: ''
 url_poster: ''
